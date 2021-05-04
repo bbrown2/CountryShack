@@ -67,6 +67,7 @@ export const BusinessInfo = styled(AboutSection)`
     margin-top: 200px;
     margin-bottom: 0;
     grid-template-columns: repeat(auto-fit, minmax(250px, 350px));
+    grid-auto-rows: auto;
 
 `;
 
